@@ -2,8 +2,10 @@
 
 I worked on charmed baryon decays at the IFJ PAN laboratory in Krakow. Issues with storage on my laptop (being now completely full) and the size of the data files has meant I have not been able to turn the code into a standard repository on my mashine and then push to GitHub. After putting this all on a drive I hope to be able to upload the project and report onto here properly. For now please see the results I have put here as well as some of the testing and training python files, as well as the ROOT version woth TMVA as well as some of the notes I took on the project and the presentation made with Timur Knyazev at the end of the programme. Thank you to Prof. Dr. Hab. Mariusz Witek for his help with this project.
 
-For details of what we were doing see the [notes](./notes).
+For details of what we were doing see the [notes](./ProjectNotes.pdf).
+For the final presentation see [this pdf file](./FinalProjectPresentation.pdf).
 
+The project aimed to find the peak correlating to a new signature from charmed baryon decay at the LHCb detector in CERN. The data files are massive, so triggers had been applied. Our processing involved some rudimentary cuts, but the main aspect was the machine learning algorithms which sorted signal from background. From this we were able to minimise the fucntion to fit it to a crystal ball + gaussian distribution, which was gave a peak to around 2 sigma. This is enough to improve constraints on the branching fraction of these products from the decay, but nowhere near enough to prove new physics beyond the standard model. The full research on what we were doing will come out most likely in 2026 from the LHCb collaboration.
 
 
 
