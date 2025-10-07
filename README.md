@@ -7,7 +7,15 @@ For the final presentation see [this pdf file](./FinalProjectPresentation.pdf).
 
 The project aimed to find the peak correlating to a new signature from charmed baryon decay at the LHCb detector in CERN. The data files are massive, so triggers had been applied. Our processing involved some rudimentary cuts, but the main aspect was the machine learning algorithms which sorted signal from background. From this we were able to minimise the fucntion to fit it to a crystal ball + gaussian distribution, which was gave a peak to around 2 sigma. This is enough to improve constraints on the branching fraction of these products from the decay, but nowhere near enough to prove new physics beyond the standard model. The full research on what we were doing will come out most likely in 2026 from the LHCb collaboration.
 
-
+# Results:
+![Results:](./Fig8-S.png)
+![Results:](./Lc2pemu_mass.png)
+![Results:](./Lc2pemumu_data.png)
+![Results:](./RefShapeCB.png)
+![Results:](./SignalShapeCB_Gauss.png)
+![Results:](./bkg_punzi.png)
+![Results:](./eff_punzi.png)
+![Results:](./fom_punzi.png)
 
 # Information about these files:
 
