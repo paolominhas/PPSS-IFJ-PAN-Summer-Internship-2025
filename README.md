@@ -1,3 +1,12 @@
+# Summer Internship - IFJ PAN
+
+I worked on charmed baryon decays at the IFJ PAN laboratory in Krakow. Issues with storage on my laptop (being now completely full) and the size of the data files has meant I have not been able to turn the code into a standard repository on my mashine and then push to GitHub. After putting this all on a drive I hope to be able to upload the project and report onto here properly. For now please see the results I have put here as well as some of the testing and training python files, as well as the ROOT version woth TMVA as well as some of the notes I took on the project and the presentation made with Timur Knyazev at the end of the programme. Thank you to Prof. Dr. Hab. Mariusz Witek for his help with this project.
+
+For details of what we were doing see the [notes](./notes).
+
+
+
+
 # Information about these files:
 
 ## Settings
